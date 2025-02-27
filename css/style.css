@@ -48,8 +48,8 @@ main {
 }
 
 footer {
-    position: absolute;
-    top: 153%;
+   position: relative;
+   top: 250px;
     padding: 10px;
     width: 100%;
     background-color: #dcdcdc;
